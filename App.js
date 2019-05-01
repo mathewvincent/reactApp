@@ -71,7 +71,7 @@ class App extends Component {
   }
 
   myfun4=()=>{
-    console.log("myfun4 works");
+    console.log("Hello");
     document.getElementById('ev').innerHTML="";
   }
   
